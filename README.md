@@ -2,4 +2,9 @@
 
 - 포트폴리오
 
-[![Video Label](https://user-images.githubusercontent.com/28917866/76055754-e4c52280-5fb7-11ea-96b5-a053fda68245.png)](https://drive.google.com/file/d/1d73Cp7W6Cnvmq_K0NKCnokofMg5kiW__/view?usp=sharing)
+
+https://user-images.githubusercontent.com/28917866/76056458-f1e31100-5fb9-11ea-990a-51039295824f.gif
+
+https://user-images.githubusercontent.com/28917866/76056467-00c9c380-5fba-11ea-9f37-6343bad8be0a.gif
+
+https://user-images.githubusercontent.com/28917866/76056481-0b845880-5fba-11ea-89cd-0bfd12ff1ade.gif
